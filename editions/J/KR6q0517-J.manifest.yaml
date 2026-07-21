@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0517_000-J.yaml, hash: 'sha256:b1cf8d6ed7d8de09b7f32342057ca91f7679abf2cbda17fb127693ebb145484e'}
+  - {seq: 0, filename: KR6q0517_000-J.yaml, hash: 'sha256:6f7f0bbf0a72dd93eaa428177ee1c54f2870bb86d101394c85900000f93d1ea4'}
   - {seq: 1, filename: KR6q0517_001-J.yaml, hash: 'sha256:a4be25cb8b987c9318edeb371069b984a8a37f87b9a44f70c455bbb8705fda62'}
   - {seq: 2, filename: KR6q0517_002-J.yaml, hash: 'sha256:e47f86342270c79e5bbc060b9bfeab90c91532297641bce59f445128248734d2'}
   - {seq: 3, filename: KR6q0517_003-J.yaml, hash: 'sha256:a83b270e68ec676eaf6667800456635bc7b1e930225a0486ee25c9581e0d5c23'}
@@ -40,7 +40,7 @@ assets:
   - {seq: 19, filename: KR6q0517_019-J.yaml, hash: 'sha256:f2c6f64b4e1efef7ad8666fd21c6ca6b9c0621abf7f27a0f47627a9a95f4990e'}
   - {seq: 20, filename: KR6q0517_020-J.yaml, hash: 'sha256:e8b13e0c6a498a34351f251da4ce9b9b8cd6ba2f7aaeb8bc49d863c8c1a56ff1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0517_000-J.markers.yaml, hash: 'sha256:2bac379e68c9aa43ea396d2dcc51035599c9cbf87d841a1cde969da39e4d689e'}
+  - {seq: 0, role: markers, filename: assets/KR6q0517_000-J.markers.yaml, hash: 'sha256:dee1b3a99d3456696f2fb33b6303f7d1ca3e7bba0236adc92ebca95bf2e334ff'}
   - {seq: 1, role: markers, filename: assets/KR6q0517_001-J.markers.yaml, hash: 'sha256:87f39eb6f427ab6d5534a84c7b9d972a2e6b34ddeda90275fdeb1aae53ca1e02'}
   - {seq: 2, role: markers, filename: assets/KR6q0517_002-J.markers.yaml, hash: 'sha256:aba8af72363bde8613ef2eabdf2662263e7fb4bcdae8a87d19f63c1e9a9d6e1a'}
   - {seq: 3, role: markers, filename: assets/KR6q0517_003-J.markers.yaml, hash: 'sha256:2e53dc6f668abb13304c78fa585cc6ee8368c878118ba36a31621c335145cdd1'}
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 像
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-2
     span:
-    - front
+    - body
     - 9
     - 9
   label: 贊
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-3
     span:
-    - front
+    - body
     - 181
     - 181
   label: 序
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-4
     span:
-    - front
+    - body
     - 181
     - 181
   label: 錢謙益序
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-5
     span:
-    - front
+    - body
     - 397
     - 397
   label: 祁熊佳序
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-6
     span:
-    - front
+    - body
     - 538
     - 538
   label: 淨符序
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-7
     span:
-    - front
+    - body
     - 852
     - 852
   label: 目錄
@@ -135,7 +135,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-8
     span:
-    - front
+    - body
     - 1102
     - 1102
   label: 開堂疏
@@ -145,7 +145,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-9
     span:
-    - front
+    - body
     - 1102
     - 1102
   label: 青龍開堂疏
@@ -155,7 +155,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-10
     span:
-    - front
+    - body
     - 1465
     - 1465
   label: 國山開堂疏
@@ -165,7 +165,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-11
     span:
-    - front
+    - body
     - 1853
     - 1853
   label: 白雲寶嚴開堂疏
@@ -175,7 +175,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-12
     span:
-    - front
+    - body
     - 2233
     - 2233
   label: 安樂院開堂疏
@@ -185,7 +185,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-13
     span:
-    - front
+    - body
     - 2457
     - 2457
   label: 禮菴上梁開堂疏
@@ -195,7 +195,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0517_J_000-mulu-14
     span:
-    - front
+    - body
     - 2645
     - 2645
   label: 弁山開堂疏
@@ -5381,4 +5381,4 @@ table_of_contents:
   label: 後序
   type: mulu
   level: 1
-hash: sha256:a6bb77bcb8b21eaab6ce14459b272024c99e2da5ac6b18e6e11b730c1edacb09
+hash: sha256:b4a0830082611f48d292be006c73f4477ef51c144c3b07517bba4f9a5e3651fd
